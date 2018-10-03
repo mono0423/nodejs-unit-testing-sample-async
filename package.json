@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-unit-test-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc --reporter=html --reporter=text mocha",
+    "mocha": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mono0423/nodejs-unit-test-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mono0423/nodejs-unit-test-sample/issues"
+  },
+  "homepage": "https://github.com/mono0423/nodejs-unit-test-sample#readme",
+  "devDependencies": {
+    "nyc": "^13.0.1"
+  },
+  "dependencies": {}
+}
