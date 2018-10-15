@@ -29,10 +29,7 @@ $ node node_modules\nyc\bin\nyc mocha
 
 ## Install
 
-at first
-
 ```bash
-$ npm install -g mocha
 $ npm install
 ```
 

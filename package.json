@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/mono0423/nodejs-unit-test-sample#readme",
   "devDependencies": {
+    "mocha": "^5.2.0",
     "nyc": "^13.0.1"
   },
   "dependencies": {}
